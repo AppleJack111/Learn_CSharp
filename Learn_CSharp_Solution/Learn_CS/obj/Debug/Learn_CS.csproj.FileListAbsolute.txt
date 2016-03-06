@@ -1,0 +1,2 @@
+C:\Users\bgerrits\Documents\001 Scripts\C# Scripts\Projecten\GitHub Projects\Learn_CSharp_Solution\Learn_CS\bin\Debug\Learn_CS.exe.config
+C:\Users\bgerrits\Documents\001 Scripts\C# Scripts\Projecten\GitHub Projects\Learn_CSharp_Solution\Learn_CS\obj\Debug\Learn_CS.csprojResolveAssemblyReference.cache

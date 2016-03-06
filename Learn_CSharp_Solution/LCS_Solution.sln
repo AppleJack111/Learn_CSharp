@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 Easy", "Learn_CS\001 Easy.csproj", "{82001AF2-77B2-4E1C-9551-CFF482746983}"
+	ProjectSection(ProjectDependencies) = postProject
+		{17DEEC4D-04DF-4639-9E94-70C7D098B495} = {17DEEC4D-04DF-4639-9E94-70C7D098B495}
+		{C99C58AF-B0F0-451A-87F9-58BEDC49C7AB} = {C99C58AF-B0F0-451A-87F9-58BEDC49C7AB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 Medium, Normal", "002 Medium, Normal\002 Medium, Normal.csproj", "{C99C58AF-B0F0-451A-87F9-58BEDC49C7AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001 Easy, Small", "001 Easy, Small", "{9057E3B4-57E5-46B7-BF60-B36F5387BB0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "002 Medium", "002 Medium", "{B54B1E83-AE36-49BF-B39A-31450E29E958}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "READ ME FIRST!!!", "READ ME FIRST!!!", "{2BA073E0-7BB9-477F-AFD0-6CD152BB1641}"
+	ProjectSection(SolutionItems) = preProject
+		Learn_CS\Files\READ ME!!!.txt = Learn_CS\Files\READ ME!!!.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "003 Hard", "003 Hard", "{32BBD561-292D-4FC0-B8E8-C1DAE9696277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 Hard", "003 Hard\003 Hard.csproj", "{17DEEC4D-04DF-4639-9E94-70C7D098B495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82001AF2-77B2-4E1C-9551-CFF482746983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82001AF2-77B2-4E1C-9551-CFF482746983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82001AF2-77B2-4E1C-9551-CFF482746983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82001AF2-77B2-4E1C-9551-CFF482746983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99C58AF-B0F0-451A-87F9-58BEDC49C7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99C58AF-B0F0-451A-87F9-58BEDC49C7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99C58AF-B0F0-451A-87F9-58BEDC49C7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99C58AF-B0F0-451A-87F9-58BEDC49C7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17DEEC4D-04DF-4639-9E94-70C7D098B495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DEEC4D-04DF-4639-9E94-70C7D098B495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DEEC4D-04DF-4639-9E94-70C7D098B495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DEEC4D-04DF-4639-9E94-70C7D098B495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{82001AF2-77B2-4E1C-9551-CFF482746983} = {9057E3B4-57E5-46B7-BF60-B36F5387BB0F}
+		{C99C58AF-B0F0-451A-87F9-58BEDC49C7AB} = {B54B1E83-AE36-49BF-B39A-31450E29E958}
+		{17DEEC4D-04DF-4639-9E94-70C7D098B495} = {32BBD561-292D-4FC0-B8E8-C1DAE9696277}
+	EndGlobalSection
+EndGlobal
