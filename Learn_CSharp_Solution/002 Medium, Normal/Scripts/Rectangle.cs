@@ -33,7 +33,7 @@ namespace RectangleApplication
 
             Console.WriteLine("Width: {0}", width);
 
-            Console.WriteLine("Area: {0]", GetArea());
+            Console.WriteLine("Area: {0}", GetArea());
         }
     }
     class ExecuteRectangle
